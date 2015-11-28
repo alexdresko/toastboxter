@@ -1,0 +1,19 @@
+{
+  "name": "toastboxter",
+  "version": "0.1.0",
+  "description": "A Toastmaster timer thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdresko/toastboxter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexdresko/toastboxter/issues"
+  },
+  "homepage": "https://github.com/alexdresko/toastboxter#readme"
+}
