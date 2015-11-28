@@ -1,0 +1,8 @@
+{
+  "name": "Toastboxter",
+  "description": "A Toastmaster timer thing",
+  "repository": "https://github.com/alexdresko/toastboxter",
+  "logo": "https://github.com/alexdresko/toastboxter/logo.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
