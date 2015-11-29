@@ -1,7 +1,7 @@
 {
   "name": "toastboxter",
   "version": "0.1.0",
-  "description": "A Toastmaster timer thing",
+  "description": "A Toastmaster timer thing.",
   "main": "index.js",
   "scripts": {
     "test": "jasmine",
