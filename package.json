@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/alexdresko/toastboxter/issues"
   },
-  "homepage": "https://github.com/alexdresko/toastboxter#readme"
+  "homepage": "https://github.com/alexdresko/toastboxter#readme",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
 }
