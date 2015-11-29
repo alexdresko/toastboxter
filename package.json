@@ -4,7 +4,7 @@
   "description": "A Toastmaster timer thing.",
   "main": "index.js",
   "scripts": {
-    "test": "vows --spec",
+    "test": "jasmine",
     "start": "node bin/www"
   },
   "dependencies": {
