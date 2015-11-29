@@ -5,10 +5,10 @@ node_js:
   - "0.12"
   - "0.11"
   - "iojs"
-  notifications:
-    webhooks:
-      urls:
-        - https://webhooks.gitter.im/e/aacbea60dab2a4331e9f
-            on_success: change  # options: [always|never|change] default: always
-            on_failure: always  # options: [always|never|change] default: always
-            on_start: never     # options: [always|never|change] default: always
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/aacbea60dab2a4331e9f
+          on_success: change  # options: [always|never|change] default: always
+          on_failure: always  # options: [always|never|change] default: always
+          on_start: never     # options: [always|never|change] default: always
